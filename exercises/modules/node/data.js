@@ -1,6 +1,6 @@
 module.exports = {
   users: [
-    {id: 1, name: 'Weezy'}
+    {id: 1, name: 'Bob'}
   ],
   posts: [
     {title: 'yo', body: 'I ate today', createdBy: 1},
